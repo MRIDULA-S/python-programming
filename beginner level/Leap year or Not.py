@@ -1,5 +1,5 @@
 N= int(raw_input())
 if(N%4==0):
-	print("Leap year")
+	print("yes")
 else:
-	print("Not a Leap year")
+	print("no")
