@@ -1,5 +1,5 @@
 a=int(raw_input())
-if(0<=a<=100000):
+if(1<=a<=100000):
 	if(a%2==0):
 		print("Even")
 	else:
