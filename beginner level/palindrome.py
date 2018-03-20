@@ -9,3 +9,13 @@ if(Z==R):
     print("yes")
 else:
     print("no")
+
+    
+    
+    ANOTHER PROGRAM
+   n=raw_input()
+N=n[::-1]
+if(n==N):
+	print("Yes")
+else:
+	print("No")
