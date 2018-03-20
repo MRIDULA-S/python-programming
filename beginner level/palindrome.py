@@ -2,8 +2,8 @@ N=int(raw_input())
 Z=N
 R=0
 while(N>0):
-    dig=N%10
-    R=R*10+dig
+    D=N%10
+    R=R*10+D
     N=N//10
 if(Z==R):
     print("yes")
