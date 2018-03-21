@@ -1,7 +1,7 @@
-N,M=raw_input().split()
-if (len(N)==len(M)):
-	print str(M)
-elif(len(N)>len(M)):
-	print str(N)
+s,n=raw_input().split()
+if (len(s)==len(n)):
+	print str(n)
+elif(len(s)>len(n)):
+	print str(s)
 else:
-	print str(M)
+	print str(n)
